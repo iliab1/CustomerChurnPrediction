@@ -13,4 +13,4 @@ The analysis consists of the following sections:
 5. Predictive Modeling and Evaluation
 
 ## Libraries used
-This project leverages the Scikit-learn library for Python to train and evaluate supervised learning algorithms for churn classification.
+This project leverages the Scikit-learn library for Python to train and evaluate supervised learning algorithms.
