@@ -11,3 +11,6 @@ The analysis consists of the following sections:
 3. Exploratory Data Analysis
 4. Feature Selection
 5. Predictive Modeling and Evaluation
+
+## Libraries used
+This project leverages the Scikit-learn library for Python to train and evaluate supervised learning algorithms for churn classification.
