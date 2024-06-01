@@ -2,7 +2,7 @@
 
 
 ## Overview 
-This project focuses on predicting customer churn for a telecom provider. Churn is a term used when a customer decides to stop using a company's services. The analysis leverages the "Telco Customer Churn" dataset from Kaggle, which can be found [here](https://www.kaggle.com/blastchar/telco-customer-churn).
+This project focuses on predicting customer churn for a telecom provider. Churn is a term used when a customer decides to stop using a company's services. The analysis utilizes the "Telco Customer Churn" dataset from Kaggle, which can be found [here](https://www.kaggle.com/blastchar/telco-customer-churn).
 
 ## Analysis Workflow
 The analysis consists of the following sections:
